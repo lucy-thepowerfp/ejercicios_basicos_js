@@ -32,4 +32,4 @@ precioBaseGlobal = 25000;
 nave1.precioFinal = precioBaseGlobal + nave1.precioBase;
 nave2.precioFinal = precioBaseGlobal + nave2.precioBase;
 
-console.log(nave1.precioFinal, nave2.precioFinal)
+console.log(nave1.precioFinal, nave2.precioFinal);
